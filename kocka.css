@@ -1,0 +1,17 @@
+body{
+    background-image: url(hatter.png);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    font-size: 25px;   
+    font-weight: bold; 
+    font-style: oblique ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr{
+    height: 2px;
+    background-color: rgb(194, 191, 13);
+}
